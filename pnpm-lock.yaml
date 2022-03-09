@@ -4,6 +4,7 @@ specifiers:
   '@types/node': 17.0.21
   '@typescript-eslint/eslint-plugin': 5.14.0
   '@typescript-eslint/parser': 5.14.0
+  chalk: '4'
   commitizen: 4.2.4
   cz-conventional-changelog: 3.3.0
   eslint: 8.10.0
@@ -18,6 +19,7 @@ devDependencies:
   '@types/node': 17.0.21
   '@typescript-eslint/eslint-plugin': 5.14.0_f4054b8c3cd621db16ae1b9d571bccc0
   '@typescript-eslint/parser': 5.14.0_eslint@8.10.0+typescript@4.6.2
+  chalk: 4.1.2
   commitizen: 4.2.4
   cz-conventional-changelog: 3.3.0
   eslint: 8.10.0
